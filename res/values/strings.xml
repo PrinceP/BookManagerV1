@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BookManagerV1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainbutton1">Create Book</string>
+    <string name="mainbutton2">Manage Book</string>
+    <string name="Text1CreateBook">Book Name</string>
+    <string name="Text2CreateBook">Date</string>
+    <string name="Text3CreateBook">Person</string>
+    <string name="title_activity_create_book">CreateBookActivity</string>
+    <string name="title_activity_manage_book">ManageBookActivity</string>
+    <string name="todo">TODO</string>
+    <string name="Add">Add</string>
+    <string name="PersonName">Person Name</string>
+    <string name="Create">Create</string>
+    <string name="title_activity_book_summary">BookSummaryActivity</string>
+    <string name="contentdesc">ContentDesc</string>
+
+</resources>
